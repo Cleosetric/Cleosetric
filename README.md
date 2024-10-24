@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cleosetric
 - 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning Unity2D Game Development
-- 💞️ I’m looking to collaborate on some game project, RPGMaker Game or Unity
+- 🌱 I’m currently into Unity2D and Godot Game Development
+- 💞️ I’m looking to collaborate on some game project, Godot, RPGMaker or Unity
 - 📫 How to reach me in my twitter @SlothinkDev
 
 <!---
